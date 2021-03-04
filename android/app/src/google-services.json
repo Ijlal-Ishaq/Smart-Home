@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "121301876869",
+    "firebase_url": "https://ubit-connect.firebaseio.com",
+    "project_id": "ubit-connect",
+    "storage_bucket": "ubit-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121301876869:android:186d75c7fd86b4bc3769ec",
+        "android_client_info": {
+          "package_name": "com.connect.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121301876869-ff52cfq3p8j2jd2l53dieme9m2kt1kfc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.connect.connect",
+            "certificate_hash": "83c6832720ac89f899a431b6e1dccaf8e168b12c"
+          }
+        },
+        {
+          "client_id": "121301876869-bm9jnh2593v72it0s9ght0c5l132qvls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBYw1WX7Hv-129TE87-AVCd2W4yjN8rrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121301876869-bm9jnh2593v72it0s9ght0c5l132qvls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121301876869:android:83e95feb3620401e3769ec",
+        "android_client_info": {
+          "package_name": "com.connect.smart_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121301876869-bm9jnh2593v72it0s9ght0c5l132qvls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBYw1WX7Hv-129TE87-AVCd2W4yjN8rrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121301876869-bm9jnh2593v72it0s9ght0c5l132qvls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
